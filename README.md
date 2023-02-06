@@ -5,3 +5,5 @@
 
 [ Project 2: Calculate the area of Circle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_2)
 
+[ Project 3: QR Code Generator ]()
+
