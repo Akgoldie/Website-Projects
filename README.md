@@ -7,3 +7,25 @@
 
 [ Project 3: QR Code Generator ]()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Social Media
+
+[GitHub](https://github.com/Akgoldie) |
+[LinkedIn](https://www.linkedin.com/in/akgoldie/) |
+[Twitter](https://twitter.com/Ak_goldie14) |
+[CodePen](https://codepen.io/Akgoldie) |
+[Codechef](https://www.codechef.com/users/akgoldie) |
+[HackerRank](https://www.hackerrank.com/Akgoldie)
