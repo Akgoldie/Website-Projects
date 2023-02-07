@@ -1,11 +1,13 @@
 # Website Projects 
 
 
-[ Project 1: Calculate the area of rectangle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_1)
+[ Project 1: Calculate the area of Rectangle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_1)
 
 [ Project 2: Calculate the area of Circle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_2)
 
 [ Project 3: QR Code Generator ]()
+
+[ Project 4: Calculate the area of Triangle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_1)
 
 
 
