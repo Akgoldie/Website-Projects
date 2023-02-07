@@ -1,0 +1,60 @@
+div{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    margin-top: 80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(243, 234, 234, 0.716);
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-family: Lucida;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    padding-top: 30px;
+}
+
+input{
+    width: 100px;
+    height: 10px;
+    padding: 10px;
+    position: relative;
+    left: 50px;
+    border-radius: 5px;
+    
+}
+
+input.result{
+    width: 200px;
+    height: 10px;
+    padding: 15px;
+    margin-top: 10px;
+    position: relative;
+    left: 37px;
+    border-radius: 5px;
+    font-size: large;
+    text-align: center;
+    
+}
+
+label{
+    color: rgb(0, 0, 0);
+    font-family: Lucida;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 50px;
+}
+
+button{
+    width: 200px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
