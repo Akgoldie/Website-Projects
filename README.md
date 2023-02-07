@@ -7,7 +7,7 @@
 
 [ Project 3: QR Code Generator ]()
 
-[ Project 4: Calculate the area of Triangle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_1)
+[ Project 4: Calculate the area of Triangle ](https://github.com/Akgoldie/Website-Projects/tree/main/Code_4)
 
 
 
